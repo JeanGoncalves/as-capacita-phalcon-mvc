@@ -1,0 +1,2106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dbill",
+				"$documentBilling〔variable〕"
+			],
+			[
+				"Da",
+				"DateTime〔class〕"
+			],
+			[
+				"Media",
+				"MediaException"
+			],
+			[
+				"bill",
+				"$bill〔variable〕"
+			],
+			[
+				"ii",
+				"$invoiceIterator〔variable〕"
+			],
+			[
+				"b",
+				"$billsMapper〔variable〕"
+			],
+			[
+				"include",
+				"includeUserApproved"
+			],
+			[
+				"sUser",
+				"sUserApproved"
+			],
+			[
+				"mB",
+				"$mediaBilling〔variable〕"
+			],
+			[
+				"iin",
+				"$invoiceIteratorNew〔variable〕"
+			],
+			[
+				"iFin",
+				"iFinBillGroupId"
+			],
+			[
+				"iIt",
+				"$invoiceIterator〔variable〕"
+			],
+			[
+				"inv",
+				"invoiceIterator"
+			],
+			[
+				"Inv",
+				"InvoiceIterator〔namespace〕"
+			],
+			[
+				"Finan",
+				"Financial"
+			],
+			[
+				"pri",
+				"print_r	AgênciaSys - print_r em memória"
+			],
+			[
+				"finB",
+				"$finBills〔variable〕"
+			],
+			[
+				"dB",
+				"$documentBilling〔variable〕"
+			],
+			[
+				"ro",
+				"$row〔variable〕"
+			],
+			[
+				"acc",
+				"$accounts〔variable〕"
+			],
+			[
+				"fi",
+				"$finBill〔variable〕"
+			],
+			[
+				"invoi",
+				"$invoices〔variable〕"
+			],
+			[
+				"sd",
+				"$sDoc〔variable〕"
+			],
+			[
+				"to",
+				"toJson"
+			],
+			[
+				"merge",
+				"mergeIteration〔function〕"
+			],
+			[
+				"get",
+				"getAmount"
+			],
+			[
+				"isn",
+				"$installment〔variable〕"
+			],
+			[
+				"In",
+				"Invoice〔namespace〕"
+			],
+			[
+				"iM",
+				"$invoiceMerge〔variable〕"
+			],
+			[
+				"ass",
+				"assertTrue"
+			],
+			[
+				"var",
+				"vard	var_dump"
+			],
+			[
+				"dbll",
+				"$docBilling〔variable〕"
+			],
+			[
+				"sB",
+				"$saveBilling〔variable〕"
+			],
+			[
+				"me",
+				"$method〔variable〕"
+			],
+			[
+				"va",
+				"valor"
+			],
+			[
+				"jsonDe",
+				"$jsonData〔variable〕"
+			],
+			[
+				"ClientP",
+				"ClientPlans"
+			],
+			[
+				"Cli",
+				"Clients::OK"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"getC",
+				"getCompanyId"
+			],
+			[
+				"FB",
+				"$FinBills〔variable〕"
+			],
+			[
+				"json",
+				"jsonPlacements"
+			],
+			[
+				"billingType",
+				"billingTypes"
+			],
+			[
+				"arr",
+				"$arrFileName〔variable〕"
+			],
+			[
+				"ob",
+				"$object〔variable〕"
+			],
+			[
+				"gb",
+				"$getBillings〔variable〕"
+			],
+			[
+				"docb",
+				"$docBilling〔variable〕"
+			],
+			[
+				"do",
+				"$document〔variable〕"
+			],
+			[
+				"document",
+				"documentBilling"
+			],
+			[
+				"prod",
+				"$production〔variable〕"
+			],
+			[
+				"Pro",
+				"ProductionItemSuppliers〔namespace〕"
+			],
+			[
+				"pro",
+				"productionitemsuppliers"
+			],
+			[
+				"pr",
+				"productionBilling"
+			],
+			[
+				"doc",
+				"$documentBilling〔variable〕"
+			],
+			[
+				"dBill",
+				"$docBilling〔variable〕"
+			],
+			[
+				"db",
+				"$dcBvValue〔variable〕"
+			],
+			[
+				"sdb",
+				"setDocBillingDocProduction"
+			],
+			[
+				"iBill",
+				"iBillingId"
+			],
+			[
+				"prin",
+				"print_r	AgênciaSys - print_r em memória"
+			],
+			[
+				"de",
+				"deal"
+			],
+			[
+				"invo",
+				"$invoices〔variable〕"
+			],
+			[
+				"pi",
+				"$productionItems〔variable〕"
+			],
+			[
+				"Prod",
+				"ProductionBilling"
+			],
+			[
+				"pI",
+				"$productionItems〔variable〕"
+			],
+			[
+				"pb",
+				"$productionBilling〔variable〕"
+			],
+			[
+				"up",
+				"updateBillingNew〔function〕"
+			],
+			[
+				"find",
+				"findFirst"
+			],
+			[
+				"quan",
+				"$quantities〔variable〕"
+			],
+			[
+				"fin",
+				"findFirst"
+			],
+			[
+				"reco",
+				"reqdoc	require_document_root"
+			],
+			[
+				"docBill",
+				"$docBilling〔variable〕"
+			],
+			[
+				"arrB",
+				"$arrBilling〔variable〕"
+			],
+			[
+				"med",
+				"$mediaGrid〔variable〕"
+			],
+			[
+				"red",
+				"redisKey"
+			],
+			[
+				"iA",
+				"$itemsApproved〔variable〕"
+			],
+			[
+				"docuemnt",
+				"$document〔variable〕"
+			],
+			[
+				"arrb",
+				"$arrBilling〔variable〕"
+			],
+			[
+				"iDeal",
+				"iDealExternalCostsId"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"De",
+				"DealExternalCosts"
+			],
+			[
+				"docume",
+				"$document〔variable〕"
+			],
+			[
+				"invoice",
+				"invoiceIterator"
+			],
+			[
+				"ide",
+				"iDealExternalCostsId"
+			],
+			[
+				"dec",
+				"$dealExternalCosts〔variable〕"
+			],
+			[
+				"Phal",
+				"PhalconModel"
+			],
+			[
+				"mb",
+				"$mediaBilling〔variable〕"
+			],
+			[
+				"Phalcon",
+				"PhalconModel〔namespace〕"
+			],
+			[
+				"insta",
+				"instanceof〔keyword〕"
+			],
+			[
+				"deal",
+				"$dealBilling〔variable〕"
+			],
+			[
+				"iE",
+				"iDealExternalCostsId"
+			],
+			[
+				"sDc",
+				"$sDoc〔variable〕"
+			],
+			[
+				"res",
+				"$responseBody〔variable〕"
+			],
+			[
+				"ins",
+				"instanceof〔keyword〕"
+			],
+			[
+				"sf",
+				"$sendFinancialDocBilling〔variable〕"
+			],
+			[
+				"inst",
+				"$installment〔variable〕"
+			],
+			[
+				"AgencyReceives",
+				"AgencyReceivesComissionClientMapper.php"
+			],
+			[
+				"Refle",
+				"ReflectionClass"
+			],
+			[
+				"medi",
+				"$media〔variable〕"
+			],
+			[
+				"FinBill",
+				"$FinBills〔variable〕"
+			],
+			[
+				"mediaBill",
+				"$mediaBilling〔variable〕"
+			],
+			[
+				"media",
+				"$mediaBilling〔variable〕"
+			],
+			[
+				"Fin",
+				"FinPaymentMethods〔namespace〕"
+			],
+			[
+				"respo",
+				"$response〔variable〕"
+			],
+			[
+				"rec",
+				"$record〔variable〕"
+			],
+			[
+				"mark",
+				"markTestSkipped"
+			],
+			[
+				"in",
+				"$invoice〔variable〕"
+			],
+			[
+				"empty",
+				"empty〔function〕"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"array_ke",
+				"array_key_exists〔function〕"
+			],
+			[
+				"values",
+				"valuesToGreaterThan"
+			],
+			[
+				"Billing",
+				"BillingMapper〔class〕"
+			],
+			[
+				"iD",
+				"$iDealId〔variable〕"
+			],
+			[
+				"ds",
+				"$dataSet〔variable〕"
+			],
+			[
+				"ex",
+				"expectException"
+			],
+			[
+				"excep",
+				"$exception〔variable〕"
+			],
+			[
+				"gB",
+				"$getBillingTypes〔variable〕"
+			],
+			[
+				"assertIn",
+				"assertInternalType"
+			],
+			[
+				"assertCount",
+				"assertCount"
+			],
+			[
+				"assertC",
+				"assertCount"
+			],
+			[
+				"assertin",
+				"assertInternalType"
+			],
+			[
+				"dt",
+				"$dateTime〔variable〕"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"print_",
+				"print_r"
+			],
+			[
+				"met",
+				"method_exists〔function〕"
+			],
+			[
+				"vali",
+				"$validParam〔variable〕"
+			],
+			[
+				"class",
+				"$class〔variable〕"
+			],
+			[
+				"val",
+				"$validParam〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# as-capacita-phalcon-mvc\n\n### PHALCON MVC\nEstrutura do projeto\n```\nas-capacita-phalcon-mvc/\n  app/\n    controllers/\n    models/\n    views/\n  public/\n    css/\n    img/\n    js/\n```",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 331.0,
+		"last_filter": "md",
+		"selected_items":
+		[
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mk",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"gitk",
+				"Gitk"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"cehck",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"SQLExec: Show Table Records"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"xml",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"aligntab",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"ALIGN",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"REGEX",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"statusw",
+				"Set Syntax: SublimeGit Show"
+			],
+			[
+				"lo",
+				"Git: Log"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"listpacka",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"STATUS",
+				"Git: Status"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"composer",
+				"Composer: Update"
+			],
+			[
+				"google",
+				"SublimeGoogle: search"
+			],
+			[
+				"trnas",
+				"Google Translate Print the available translate variants"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"PHP Namespace",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"PHP Codebeautifier",
+				"PHP CodeBeautifier"
+			],
+			[
+				"channe",
+				"ChannelRepositoryTools: Test Default Channel"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"git",
+				"Legit: Branches"
+			],
+			[
+				"git mer",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"snippet",
+				"Snippet: getSql"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Create Package",
+				"Package Control: Create Package File"
+			],
+			[
+				"create pa",
+				"Package Control: Create Package File"
+			],
+			[
+				"sttaus",
+				"Git: Status"
+			],
+			[
+				"branc",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git lo",
+				"Git: Log"
+			],
+			[
+				"blamer",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"CHECK",
+				"Git: Checkout Current File"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"dcRate",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"buil",
+				"Build With: as-api"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run with params"
+			],
+			[
+				"phpunit",
+				"PHPUnit: Run"
+			],
+			[
+				"checout",
+				"Git: Checkout Current File"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitp",
+				"Git: Pull"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Log"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"inspacka",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"docblo",
+				"Snippet: Start Docblock"
+			],
+			[
+				"BLM",
+				"Git: Blame"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"lispa",
+				"Package Control: List Packages"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"gitto",
+				"Git: Diff Tool All"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool All"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"beaur",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"beau",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"ssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntaxsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"setsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"beauti",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"sqlexec",
+				"SQLExec: Show Table Records"
+			],
+			[
+				"difft",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"gitdifftoo",
+				"Git: Diff Tool All"
+			],
+			[
+				"desc",
+				"SQLExec: Desc Table"
+			],
+			[
+				"desctable",
+				"SQLExec: Desc Table"
+			],
+			[
+				"type",
+				"SQLExec: Type Query"
+			],
+			[
+				"ty",
+				"SQLExec: Type Query"
+			],
+			[
+				"typ",
+				"SQLExec: Type Query"
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 415.0,
+		"history":
+		[
+			"clear",
+			"clea",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/www/as-capacita-phalcon-mvc"
+	],
+	"file_history":
+	[
+		"/www/as-capacita-phalcon-api/README.md",
+		"/www/as-capacita-phalcon-api/public/namespaces.php",
+		"/www/as-capacita-phalcon-api/library/agenciasys/error/Handler.php",
+		"/www/as-capacita-phalcon-api/library/softers/error/Handler.php",
+		"/www/as-capacita-phalcon-api/library/softers/error/Message.php",
+		"/www/as-capacita-phalcon-api/library/softers/exception/Handler.php",
+		"/www/as-capacita-project/as-capacita-phalcon-api.sublime-project",
+		"/www/as-capacita-project/.gitignore",
+		"/www/as-capacita-project/public/index.php",
+		"/www/as-capacita-project/README.md",
+		"/www/as-capacita-project/apps/responses/JSONResponse.php",
+		"/www/as-capacita-project/apps/responses/Response.php",
+		"/www/as-capacita-project/apps/mappers/BaseMapper.php",
+		"/www/as-capacita-project/apps/controllers/RESTController.php",
+		"/www/as-capacita-project/apps/controllers/Controller.php",
+		"/www/as-capacita-project/apps/exceptions/HTTPException.php",
+		"/www/as-capacita/apps/modules/admin/models/Teams.php",
+		"/www/as-capacita/apps/modules/admin/controllers/TeamsController.php",
+		"/www/as-capacita/public/namespaces.php",
+		"/www/as-capacita/apps/services/models/BaseASClient.php",
+		"/www/as-capacita/library/softers/error/Handler.php",
+		"/www/as-capacita/.gitignore",
+		"/www/as-capacita/public/index.php",
+		"/www/as-capacita/library/softers/error/Message.php",
+		"/www/as-capacita/library/softers/exception/Handler.php",
+		"/www/as-capacita/apps/responses/Response.php",
+		"/www/as-capacita/apps/exceptions/HTTPException.php",
+		"/www/as-capacita/composer.json",
+		"/www/as-capacita/apps/config/.env",
+		"/www/as-capacita/apps/responses/CSVResponse.php",
+		"/www/as-capacita/apps/controllers/RESTController.php",
+		"/www/as-capacita/public/bootstrap.php",
+		"/www/as-capacita/public/routes/collections/adminTeams.php",
+		"/www/as-capacita/tests/TestHelper.php",
+		"/www/as-capacita/as-capacita.sublime-project",
+		"/www/agenciasys-api/apps/modules/medias/mappers/MediaBillingMapper.php",
+		"/www/agenciasys-api/tests/databaseTables/FinBills.php",
+		"/www/agenciasys-api/tests/databaseTables/MediaBilling.php",
+		"/www/agenciasys-api/tests/DatabaseTestCase.php",
+		"/www/agenciasys-api/tests/databaseTables/Medias.php",
+		"/www/agenciasys-api/tests/apps/modules/medias/mappers/MediaGridsMapperTest.php",
+		"/www/agenciasys-api/tests/apps/modules/medias/mappers/MediaBillingMapperTest.php",
+		"/www/agenciasys-api/tests/apps/modules/medias/controllers/MediasControllerTest.php",
+		"/www/agenciasys-api/library/api/financial/Invoice.php",
+		"/www/agenciasys-api/public/index.php",
+		"/home/otavio/Downloads/FinBills.sql",
+		"/home/otavio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/www/agenciasys-api/composer.json",
+		"/www/agenciasys-api/phpunit.xml",
+		"/www/agenciasys-api/apps/modules/financial/mappers/BillingNewMapper.php",
+		"/www/agenciasys-api/apps/modules/medias/controllers/MediasController.php",
+		"/www/agenciasys-api/apps/modules/medias/mappers/MediaGridsMapper.php",
+		"/www/agenciasys-api/tests/DatabaseSqliteTestCase.php",
+		"/www/index.php",
+		"/www/agenciasys-api/apps/modules/medias/models/MediaGrids.php",
+		"/www/agenciasys-api/apps/services/models/BaseASClient.php",
+		"/www/agenciasys-api/library/softers/Model.php",
+		"/www/agenciasys-api/apps/modules/financial/controllers/FinancialNewController.php",
+		"/www/agenciasys-api/tests/apps/modules/financial/controllers/FinancialNewControllerTest.php",
+		"/www/agenciasys-api/tests/databaseTables/MediaTVPrograms.php",
+		"/www/agenciasys-api/tests/databaseTables/MediaTVGridPieces.php",
+		"/www/docker/docker-compose.yml",
+		"/www/docker/index.php",
+		"/www/docker/Dockerfile",
+		"/www/agenciasys-api/library/api/financial/invoices/Fee.php",
+		"/home/otavio/Downloads/as2_otavio.sql",
+		"/home/otavio/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+		"/www/agenciasys-api/tests/databaseTables/ProductionBilling.php",
+		"/www/agenciasys-api/tests/databaseTables/DealBilling.php",
+		"/www/agenciasys-api/library/api/financial/Installment.php",
+		"/www/agenciasys-api/library/api/financial/InstallmentIterator.php",
+		"/www/agenciasys-api/tests/library/api/financial/InstallmentTest.php",
+		"/home/otavio/.config/sublime-text-3/Packages/User/OnlineSearch.sublime-settings",
+		"/www/agenciasys-api/apps/exceptions/MediaException.php",
+		"/www/agenciasys-api/library/vendor/array/validation/src/Validation/SimpleArray.php",
+		"/www/agenciasys-api/apps/exceptions/FinancialException.php",
+		"/www/agenciasys-api/apps/modules/financial/models/FinBills.php",
+		"/www/agenciasys-api/public/routes/collections/financialv2.php",
+		"/www/agenciasys-api/library/softers/error/Message.php",
+		"/www/agenciasys-api/apps/modules/financial/mappers/BillsMapper.php",
+		"/www/agenciasys-api/apps/traits/Delete.php",
+		"/www/agenciasys-api/apps/modules/configuracoes/mappers/LocaleMapper.php",
+		"/www/agenciasys-api/apps/modules/deals/mappers/BillingMapper.php",
+		"/www/agenciasys-api/apps/modules/financial/models/Users.php",
+		"/www/agenciasys-api/apps/modules/medias/models/MediaBilling.php",
+		"/www/agenciasys-api/tests/library/api/financial/InvoiceFactoryTest.php",
+		"/www/agenciasys-api/tests/library/api/financial/InvoiceIteratorFactoryTest.php",
+		"/www/agenciasys-api/tests/library/api/financial/BillingFactoryTest.php",
+		"/www/agenciasys-api/library/api/financial/InvoiceFactory.php",
+		"/www/agenciasys-api/tests/library/api/financial/InvoiceTest.php",
+		"/www/agenciasys-api/apps/modules/deals/models/Deals.php",
+		"/www/agenciasys-api/migrations/client/20151028125908_deal_items_add_column_ideal_price_id.php",
+		"/www/agenciasys-api/migrations/client/20160607124835_media_billing_add_column_iuser_id.php",
+		"/www/agenciasys-api/README.md",
+		"/www/agenciasys-api/apps/modules/medias/models/Medias.php",
+		"/www/agenciasys-api/apps/traits/ModelBaseTrait.php",
+		"/www/agenciasys-api/apps/modules/system/models/SysStatus.php",
+		"/www/agenciasys-api/library/api/financial/InvoiceIterator.php",
+		"/www/agenciasys-api/apps/modules/financial/models/FinStatus.php",
+		"/www/agenciasys-api/library/api/financial/BillingFactory.php",
+		"/www/agenciasys-api/library/api/financial/InvoiceIteratorFactory.php",
+		"/www/agenciasys-api/library/api/financial/InstallmentIteratorFactory.php",
+		"/www/agenciasys-api/apps/mappers/BaseMapper.php",
+		"/www/agenciasys-api/apps/modules/admin/models/Users.php",
+		"/www/agenciasys-api/apps/modules/system/models/Users.php",
+		"/www/agenciasys-api/tests/library/api/financial/BillingTest.php",
+		"/www/agenciasys-api/library/api/financial/Billing.php",
+		"/www/agenciasys-api/dev-backup/medias/mediaMagazine.phtml",
+		"/etc/php5/fpm/php.ini",
+		"/etc/php5/fpm/conf.d/20-xdebug.ini",
+		"/etc/php5/fpm/conf.d/xdebug.ini",
+		"/etc/hosts",
+		"/www/agenciasys-api/apps/controllers/RESTController.php",
+		"/www/agenciasys-api/migrations/client/20160603183008_fin_bills_changei_account_id_zero_to_one.php",
+		"/www/agenciasys-api/apps/modules/financial/models/FinBalance.php",
+		"/www/agenciasys-api/apps/modules/financial/mappers/BalanceMapper.php",
+		"/www/agenciasys-api/apps/modules/system/mappers/DefaultMapper.php",
+		"/www/agenciasys-api/migrations/client/20160602171500_remove_sys_preferences_trial.php",
+		"/www/agenciasys-api/apps/modules/financial/mappers/AccountsMapper.php",
+		"/www/agenciasys-api/migrations/trial/20100110120787_add_sys_preferences.php",
+		"/www/agenciasys-api/apps/modules/productions/controllers/ProductionItemsController.php",
+		"/www/agenciasys-api/apps/modules/productions/mappers/ProductionItemsMapper.php",
+		"/www/agenciasys-api/apps/modules/productions/mappers/ProductionItemSupplierQuantitiesMapper.php",
+		"/home/otavio/.config/sublime-text-3/Packages/SublimeGit/README.md",
+		"/www/agenciasys-api/migrations/client/20160601193848_file_admin_update_values.php",
+		"/www/agenciasys-api/migrations/client/20160315152700_view_sys_users_bug_resolved.php",
+		"/www/agenciasys-api/migrations/client/20151001001000_sys_administration_insert.php",
+		"/www/agenciasys-api/apps/modules/medias/mappers/MediasMapper.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 81.0,
+		"where_history":
+		[
+			"<project>",
+			"/www/agenciasys-api/tests/library/api",
+			"<project>",
+			"/www/agenciasys-api/migrations/client",
+			"<project>",
+			"/www/agenciasys-api/migrations",
+			"<project>",
+			"/www/agenciasys-api/tests",
+			"<project>",
+			"/www/agenciasys-api/migrations<project>",
+			"/www/agenciasys-api/migrations",
+			"<project>",
+			"/www/agenciasys-api/library/api/email",
+			"<project>",
+			"/www/agenciasys-api/migrations",
+			"<project>",
+			"/www/agenciasys-api/migrations",
+			"<project>",
+			"/www/agenciasys-api/library/payzen/error",
+			"<project>",
+			"/www/agenciasys-api/library/payzenAndre",
+			"/www/agenciasys-api/library/payzenAndre/card",
+			"<project>",
+			"/www/agenciasys-api/apps",
+			"<project>",
+			"/www/agenciasys-api/library",
+			"<project>",
+			"/www/agenciasys-api/library/softers",
+			"/www/agenciasys-api/library/api",
+			"/www/agenciasys-api/apps",
+			"<project>",
+			"<PROJECT",
+			"/www/agenciasys-api/apps/modules/deals",
+			"<project>",
+			"/www/agenciasys-api/apps/modules/productions",
+			"/www/agenciasys-api/apps",
+			"<project>",
+			"/www/agenciasys-api/library/vendor/rackspace/php-opencloud/lib/OpenCloud/ObjectStore",
+			"<project>",
+			"/www/agenciasys-api/library/vendor/rackspace",
+			"<project>",
+			"/www/agenciasys-api/apps/modules/productions",
+			"/www/agenciasys-api/apps/modules",
+			"/www/agenciasys-api/library/vendor/",
+			"/www/agenciasys-api/library/vendor/phalcon/incubator/Library",
+			"/www/agenciasys-api/library/vendor/phalcon/incubator/Library/Phalcon",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"softers",
+			"array()",
+			"snakeToCamel",
+			"devMessage",
+			"$request->getServer('REQUEST_URI')",
+			"$_SERVER['REQUEST_URI']",
+			"REQUEST_URI",
+			"_SERVER",
+			"$_SERVER['REQUEST_URI'])",
+			"prepareLogException",
+			"\\App\\Responses\\",
+			"softers",
+			"`",
+			",",
+			"FinBills",
+			",",
+			"dcFeeValue",
+			"actual",
+			"=>",
+			"saveBillingNew(",
+			"saveBillingNewShouldExist",
+			"reopenFinancialBilling",
+			"\\PDO",
+			"gettype",
+			"financial",
+			"test",
+			"@group",
+			",",
+			"Medias",
+			"MediaTVGridPieces",
+			", ",
+			"new \\Phalcon\\Http\\Request();",
+			"bill",
+			"finBills",
+			"private",
+			"finBills",
+			"bill",
+			",",
+			" ,",
+			"getMediasGrids",
+			"MediaGridsMapper",
+			"installment",
+			"installmentValue",
+			"dcValue",
+			"billValue",
+			"hasChangedPaymentMethod",
+			"$invoice->getInstallments()->getInstallment($key+1)",
+			"getValue",
+			"getPaymentMethod",
+			"dcValue",
+			"bChanged",
+			"user",
+			"sUserApproved",
+			"includeExtraKeys",
+			"includeUserApproved",
+			"$finBills->objstatus->sColor",
+			"includeUserApproved",
+			"FinancialException",
+			"iFinBillGroupId",
+			"GroupId",
+			"productionBilling",
+			"mediaBilling",
+			"record",
+			"mediaBillingModel",
+			"mediaBilling",
+			"billing",
+			"Input",
+			"arrayValidator",
+			"alidator",
+			"arrayValidator",
+			"mediaBilling",
+			"getUserApproved",
+			"documentBilling",
+			"users",
+			"iUserId",
+			"public",
+			"Approved",
+			"DealItems",
+			"iDealPriceId",
+			"condition",
+			"objStatus",
+			"$this->getFinBills()",
+			"isset",
+			"objFinBills",
+			"invoiceIterator",
+			"objFinBills",
+			"is_null",
+			"objStatus",
+			"paymentMethod",
+			"PaymentMethod",
+			"getPaymentMethod",
+			"getFinBills",
+			"setFinBills",
+			"objPaymentMethod",
+			"paymentMethod",
+			"setPaymentMethod",
+			"FinStatus",
+			"mockStatus",
+			"setPaymentMethod",
+			"setFinStatus",
+			"PaymentMethods",
+			"iFinBillGroupId",
+			"iUser",
+			"users",
+			"bill",
+			"finBill",
+			"iEntPersonId",
+			"iUserId",
+			"iInvoiceId",
+			"iEntPersonId",
+			"iUserId",
+			"invoiceIterator",
+			"documentBilling",
+			"getBill",
+			"getBilling",
+			"mockFinBills",
+			"mockBilling",
+			"namespaceFinBills",
+			"getBill",
+			"setBill",
+			"FinBills",
+			"bill",
+			"getBill",
+			"bill",
+			"Users",
+			"getBill",
+			"mockFinBills",
+			"setBill"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{{dbName}}",
+			"iFinBillId",
+			"#fff",
+			"#666",
+			"<br>",
+			"AUTOMATICALLY",
+			"\"",
+			"'",
+			"\"",
+			"'eMode'",
+			";\n",
+			"'",
+			"Lib\\Payzen",
+			"genUuid()",
+			"genUuid",
+			"iSpaceAcquired",
+			"beforeValidation",
+			"SELECT CampaignDocs.*,\n       Campaigns.*,\n       Clients.*,\n       Productions.*,\n       Companies.*,\n       Status.*,\n       CONCAT_WS('.', CampaignDocs.iCampaign, CampaignDocs.iItem) AS sCampaignProduction,\n       IF(ViewInvolvedsDoc.nInvolveds > 0, ViewInvolvedsDoc.arrInvolveds, '[{\"cd\":\"0\", \"name\":\"-\"}]') AS arrInvolveds,\n       IF(ViewInvolvedsDoc.nInvolveds > 0, ViewInvolvedsDoc.nInvolveds, 0) AS nInvolveds,\n       IF(ViewInvolvedsDoc.nInvolveds > 0, ViewInvolvedsDoc.sFirstInvolved, '-') AS sFirstInvolved\nFROM CampaignDocs \nINNER JOIN Campaigns ON Campaigns.iCampaign = CampaignDocs.iCampaign AND Campaigns.iDeleted = '0' \nINNER JOIN Productions ON Productions.iProductionId = CampaignDocs.iDoc AND CampaignDocs.sDoc = 'production' \nLEFT JOIN ProductionItems ON ProductionItems.iProductionId = Productions.iProductionId AND ProductionItems.eSituation = 'active' \nLEFT JOIN ProductionItemSuppliers ON ProductionItemSuppliers.iProductionItemId = ProductionItems.iProductionItemId \nLEFT JOIN Companies ON Productions.iCompanyId = Companies.iCompanyId \nLEFT JOIN ViewInvolvedsDoc ON ViewInvolvedsDoc.iDoc = Productions.iProductionId AND ViewInvolvedsDoc.sDoc = \"production\" \nLEFT JOIN Clients ON Campaigns.iClient = Clients.iPerson \nLEFT JOIN Status ON Productions.iStatusId = Status.iStatusId\nWHERE TRUE\n    AND Companies.iCompanyId = '1'\n    AND Clients.iPerson = '8'\n    AND Campaigns.iCampaign = '8'\n    AND ProductionItemSuppliers.iSupplierId = '19'\n    AND Productions.iRequesterId = '399'\nGROUP BY Productions.iProductionId \nHAVING arrInvolveds LIKE '%teste%'\nOR DATE_FORMAT(dtDueDate, '%d/%m/%Y %H:%i:%s') LIKE '%teste%'\nOR iCampaignId LIKE '%teste%'\nOR iProductionId LIKE '%teste%'\nOR sCampaign LIKE '%teste%'\nOR sCampaignProduction LIKE '%teste%'\nOR sClient LIKE '%teste%'\nOR sStatus LIKE '%teste%'\nOR sProduction LIKE '%teste%'\nORDER BY Productions.dtDueDate DESC",
+			"",
+			"'",
+			"for ($i=0; $i < 2; $i++) {",
+			"Discount",
+			"Discount\n",
+			"();\n",
+			"DESC",
+			"APPROVEDWITHNOBILLING",
+			"$this->search",
+			"DealItems",
+			"Added",
+			"$this->executeEdit('",
+			"\\Traits\\FastEdit;",
+			"tests[\\\"Passed\\\"] = !responseBody.has(\\\"false\\\") && !responseBody.has(\\\"ERROR\\\");",
+			"$sDoc == 'campaign'",
+			"",
+			"iGroupSupplierItems",
+			"'",
+			"SYS.AGENCIA.RECEBE.CLIENTE.REPASSA.TERCEIRO",
+			"SYS.AGENCIA.RECEBE.TERCEIRO",
+			"SYS.TERCEIRO.RECEBE.CLIENTE",
+			"SYS.VALOR.RETIDO.AGENCIA",
+			"SYS.TERCEIRO.RECEBE.AGENCIA",
+			"SYS.AGENCIA.RECEBE.CLIENTE",
+			"getPartialValue",
+			"getTotalValue",
+			"getNumberInstallments",
+			"'arrInstallments'",
+			"$receiveValue = 0",
+			":',\n",
+			"App\\Controllers\\RESTController",
+			"/",
+			"\"tests\": \"tests[\\\"Passed\\\"] = !responseBody.has(\\\"false\\\");\",",
+			"\"headers\": \"{{hash}}\\n\",",
+			"{{hash}}",
+			"{{hash}}\n",
+			"'];\n",
+			"field",
+			"sys_teams_users"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/User/SublimeBuild/as-api.sublime-build",
+	"project": "as-capacita-phalcon-mvc.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"as-capacita-phalcon-api.sublime-project"
+			],
+			[
+				"response",
+				"apps/responses/Response.php"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"basemapper",
+				"apps/mappers/BaseMapper.php"
+			],
+			[
+				"rest",
+				"apps/controllers/RESTController.php"
+			],
+			[
+				"brary/softers/exception/handler.php",
+				"library/softers/exception/Handler.php"
+			],
+			[
+				"composerjson",
+				"composer.json"
+			],
+			[
+				"php",
+				"phpunit.xml"
+			],
+			[
+				"phpuni",
+				"phpunit.xml"
+			],
+			[
+				"mbmt",
+				"tests/apps/modules/medias/mappers/MediaBillingMapperTest.php"
+			],
+			[
+				"financialnewcontrollertest",
+				"tests/apps/modules/financial/controllers/FinancialNewControllerTest.php"
+			],
+			[
+				"financialnewcontroller",
+				"apps/modules/financial/controllers/FinancialNewController.php"
+			],
+			[
+				"odules/medias/mappers/mediabillingmappertest.php",
+				"tests/apps/modules/medias/mappers/MediaBillingMapperTest.php"
+			],
+			[
+				"app/medias/mappers/mediabillingmapper",
+				"apps/modules/medias/mappers/MediaBillingMapper.php"
+			],
+			[
+				"fee",
+				"library/api/financial/invoices/Fee.php"
+			],
+			[
+				"invoice",
+				"library/api/financial/Invoice.php"
+			],
+			[
+				"bnm",
+				"apps/modules/financial/mappers/BillingNewMapper.php"
+			],
+			[
+				"mbm",
+				"apps/modules/medias/mappers/MediaBillingMapper.php"
+			],
+			[
+				"installment",
+				"library/api/financial/Installment.php"
+			],
+			[
+				"instate",
+				"tests/library/api/financial/InstallmentTest.php"
+			],
+			[
+				"installm",
+				"library/api/financial/Installment.php"
+			],
+			[
+				"fnc",
+				"apps/modules/financial/controllers/FinancialNewController.php"
+			],
+			[
+				"mediaex",
+				"apps/exceptions/MediaException.php"
+			],
+			[
+				"finanv2",
+				"public/routes/collections/financialv2.php"
+			],
+			[
+				"billsmapper",
+				"apps/modules/financial/mappers/BillsMapper.php"
+			],
+			[
+				"finbillsmpper",
+				"apps/modules/financial/mappers/BillsMapper.php"
+			],
+			[
+				"composer.js",
+				"composer.json"
+			],
+			[
+				"mediabillingmapper",
+				"apps/modules/medias/mappers/MediaBillingMapper.php"
+			],
+			[
+				"financialv",
+				"public/routes/collections/financialv2.php"
+			],
+			[
+				"ift",
+				"tests/library/api/financial/InvoiceFactoryTest.php"
+			],
+			[
+				"if",
+				"library/api/financial/InvoiceFactory.php"
+			],
+			[
+				"invt",
+				"tests/library/api/financial/InvoiceTest.php"
+			],
+			[
+				"installmen",
+				"library/api/financial/Installment.php"
+			],
+			[
+				"mediabilling",
+				"apps/modules/medias/models/MediaBilling.php"
+			],
+			[
+				"dea",
+				"apps/modules/deals/models/Deals.php"
+			],
+			[
+				"deal",
+				"apps/modules/deals/models/Deals.php"
+			],
+			[
+				"mb",
+				"apps/modules/medias/models/MediaBilling.php"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"addcolumniuser",
+				"migrations/client/20160607124835_media_billing_add_column_iuser_id.php"
+			],
+			[
+				"invoicefactorytest",
+				"tests/library/api/financial/InvoiceFactoryTest.php"
+			],
+			[
+				"traits/modelbasetrait",
+				"apps/traits/ModelBaseTrait.php"
+			],
+			[
+				"mediasphp",
+				"apps/modules/medias/models/Medias.php"
+			],
+			[
+				"installmenttest",
+				"tests/library/api/financial/InstallmentTest.php"
+			],
+			[
+				"syss",
+				"apps/modules/system/models/SysStatus.php"
+			],
+			[
+				"installmenttes",
+				"tests/library/api/financial/InstallmentTest.php"
+			],
+			[
+				"invoiceiteratorfactorytest",
+				"tests/library/api/financial/InvoiceIteratorFactoryTest.php"
+			],
+			[
+				"billingfactorytest",
+				"tests/library/api/financial/BillingFactoryTest.php"
+			],
+			[
+				"mediab",
+				"apps/modules/medias/models/MediaBilling.php"
+			],
+			[
+				"app/financial/models/users",
+				"apps/modules/financial/models/Users.php"
+			],
+			[
+				"invote",
+				"tests/library/api/financial/InvoiceTest.php"
+			],
+			[
+				"phpunit",
+				"phpunit.xml"
+			],
+			[
+				"users",
+				"apps/modules/campaigns/models/Users.php"
+			],
+			[
+				"sysusers",
+				"apps/modules/system/models/Users.php"
+			],
+			[
+				"invoicete",
+				"tests/library/api/financial/InvoiceTest.php"
+			],
+			[
+				"billing",
+				"library/api/financial/Billing.php"
+			],
+			[
+				"billingt",
+				"tests/library/api/financial/BillingTest.php"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"sysstatus",
+				"apps/modules/system/models/SysStatus.php"
+			],
+			[
+				"mediamagazine",
+				"dev-backup/medias/mediaMagazine.phtml"
+			],
+			[
+				"addsyspre",
+				"migrations/trial/20100110120787_add_sys_preferences.php"
+			],
+			[
+				"bllsmapper",
+				"apps/modules/financial/mappers/BillsMapper.php"
+			],
+			[
+				"productionsitemscontro",
+				"apps/modules/productions/controllers/ProductionItemsController.php"
+			],
+			[
+				"mediasmapper",
+				"apps/modules/medias/mappers/MediasMapper.php"
+			],
+			[
+				".env",
+				"apps/config/.env"
+			],
+			[
+				"financial.php",
+				"public/routes/collections/financial.php"
+			],
+			[
+				"invoi",
+				"library/api/financial/InvoiceFactory.php"
+			],
+			[
+				"instatest",
+				"tests/library/api/financial/InstallmentTest.php"
+			],
+			[
+				"install",
+				"library/api/financial/Installment.php"
+			],
+			[
+				"it",
+				"tests/library/api/financial/InvoiceTest.php"
+			],
+			[
+				"mediamapper",
+				"apps/modules/backup/mappers/MediasMapper.php"
+			],
+			[
+				"iit",
+				"tests/library/api/financial/InstallmentIteratorTest.php"
+			],
+			[
+				"invoiceiterator",
+				"library/api/financial/InvoiceIterator.php"
+			],
+			[
+				"bs",
+				"library/api/financial/BillingStrategy.php"
+			],
+			[
+				"glaci",
+				".gitlab-ci.yml"
+			],
+			[
+				"gitci",
+				".gitlab-ci.yml"
+			],
+			[
+				"mastermapper",
+				"apps/modules/master/mappers/MasterMapper.php"
+			],
+			[
+				"dealsitems",
+				"apps/modules/deals/mappers/ItemsMapper.php"
+			],
+			[
+				"ind",
+				"public/index.php"
+			],
+			[
+				"medianewspaper",
+				"dev-backup/medias/mediaNewspaper.phtml"
+			],
+			[
+				"mediaradio",
+				"dev-backup/medias/mediaRadio.phtml"
+			],
+			[
+				"ch",
+				"apps/modules/master/models/ClientHistory.php"
+			],
+			[
+				"utilira",
+				"apps/modules/files/mappers/CloudFilesUtilitaryMapper.php"
+			],
+			[
+				"mediama",
+				"dev-backup/medias/mediaMagazine.phtml"
+			],
+			[
+				"sendmail",
+				"library/api/email/SendMail.php"
+			],
+			[
+				"cpm",
+				"apps/modules/master/mappers/ClientPlansMapper.php"
+			],
+			[
+				"backmedianewspappe",
+				"dev-backup/medias/mediaNewspaper.phtml"
+			],
+			[
+				"mediaradio.phtml",
+				"dev-backup/medias/mediaRadio.phtml"
+			],
+			[
+				"productionsmapper",
+				"apps/modules/backup/mappers/ProductionsMapper.php"
+			],
+			[
+				"bamediasmapper",
+				"dev-backup/medias/mediaNewspaper.phtml"
+			],
+			[
+				"backuptrait",
+				"apps/traits/backup/BackupTrait.php"
+			],
+			[
+				"backupmapper",
+				"apps/modules/backup/mappers/BackupMapper.php"
+			],
+			[
+				"backup",
+				"public/routes/collections/backup.php"
+			],
+			[
+				"deals",
+				"apps/modules/deals/models/Deals.php"
+			],
+			[
+				"mr",
+				"dev-backup/medias/mediaRadio.phtml"
+			],
+			[
+				"billingtest",
+				"tests/library/api/financial/BillingTest.php"
+			],
+			[
+				"producbm",
+				"apps/modules/productions/mappers/ProductionBillingMapper.php"
+			],
+			[
+				"medias/mediatv.phtml",
+				"dev-backup/medias/mediaTv.phtml"
+			],
+			[
+				"backupcontroller",
+				"apps/modules/backup/controllers/BackupController.php"
+			],
+			[
+				"back",
+				"public/routes/collections/backup.php"
+			],
+			[
+				"dev-backup/medias/mediatv.phtml",
+				"dev-backup/medias/mediaTv.phtml"
+			],
+			[
+				"paymentsmapper",
+				"apps/modules/master/mappers/PaymentsMapper.php"
+			],
+			[
+				"config",
+				"apps/config/config-test.ini"
+			],
+			[
+				"bllingmapper",
+				"apps/modules/deals/mappers/BillingMapper.php"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"cloudfilesmapper",
+				"apps/modules/files/mappers/CloudFilesMapper.php"
+			],
+			[
+				"dealscontrolelr",
+				"apps/modules/deals/controllers/DealsController.php"
+			],
+			[
+				"dealsmapper",
+				"apps/modules/deals/mappers/DealsMapper.php"
+			],
+			[
+				"ingnew",
+				"apps/modules/financial/mappers/BillingNewMapper.php"
+			],
+			[
+				"produciton",
+				"tests/databaseTables/ProductionBilling.php"
+			],
+			[
+				"dealsbilling",
+				"public/routes/collections/dealsBilling.php"
+			],
+			[
+				"producationbm",
+				"apps/modules/productions/mappers/ProductionBillingMapper.php"
+			],
+			[
+				"dealbillingmapper",
+				"apps/modules/deals/mappers/BillingMapper.php"
+			],
+			[
+				"financial/mappers/billingmapper.php",
+				"apps/modules/financial/mappers/BillingMapper.php"
+			],
+			[
+				"midiabillin",
+				"apps/modules/medias/mappers/MediaBillingMapper.php"
+			],
+			[
+				"billingmapper",
+				"apps/modules/productions/mappers/ProductionBillingMapper.php"
+			],
+			[
+				"dealbilling",
+				"migrations/client/20150909090900_deal_billing.php"
+			],
+			[
+				"invoicetes",
+				"tests/library/api/financial/InvoiceTest.php"
+			],
+			[
+				"invoicefactory",
+				"library/api/financial/InvoiceFactory.php"
+			],
+			[
+				"invoiceiter",
+				"library/api/financial/InvoiceIterator.php"
+			],
+			[
+				"librabilling",
+				"library/api/financial/Billing.php"
+			],
+			[
+				"billites",
+				"tests/library/api/financial/BillingTest.php"
+			],
+			[
+				"dim",
+				"apps/modules/deals/mappers/ItemsMapper.php"
+			],
+			[
+				"dealitems",
+				"apps/modules/deals/models/DealItems.php"
+			],
+			[
+				"invoicesag",
+				"library/api/financial/invoices/AgencyReceivesComissionClient.php"
+			],
+			[
+				"pism",
+				"apps/modules/productions/mappers/ProductionItemSuppliersMapper.php"
+			],
+			[
+				"phpu",
+				"phpunit.xml"
+			],
+			[
+				"contracting",
+				"apps/modules/master/mappers/ContractingMapper.php"
+			],
+			[
+				"newsgridpima",
+				"apps/modules/medias/mappers/MediaNewspaperGridPiecesMapper.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/www/SublimeProjects/[2.0]agenciasys.api.sublime-project"
+			],
+			[
+				"]",
+				"/www/SublimeProjects/[2.0]agenciasys.api.sublime-project"
+			],
+			[
+				"zend",
+				"/www/SublimeProjects/[ZEND]alpha.sublime-project"
+			],
+			[
+				"	",
+				"/www/curso-tdd/curso-tdd.sublime-project"
+			],
+			[
+				"BLAME",
+				"/www/SublimeProjects/api-busca-cep.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 331.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)\nendif\n\n# Internal variables.\nPAPEROPT_a4     = -D latex_paper_size=a4\nPAPEROPT_letter = -D latex_paper_size=letter\nALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n# the i18n builder cannot share the environment and doctrees with the others\nI18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n\n.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext\n\nhelp:\n	@echo \"Please use \\`make <target>' where <target> is one of\"\n	@echo \"  html       to make standalone HTML files\"\n	@echo \"  dirhtml    to make HTML files named index.html in directories\"\n	@echo \"  singlehtml to make a single large HTML file\"\n	@echo \"  pickle     to make pickle files\"\n	@echo \"  json       to make JSON files\"\n	@echo \"  htmlhelp   to make HTML files and a HTML help project\"\n	@echo \"  qthelp     to make HTML files and a qthelp project\"\n	@echo \"  devhelp    to make HTML files and a Devhelp project\"\n	@echo \"  epub       to make an epub\"\n	@echo \"  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter\"\n	@echo \"  latexpdf   to make LaTeX files and run them through pdflatex\"\n	@echo \"  latexpdfja to make LaTeX files and run them through platex/dvipdfmx\"\n	@echo \"  text       to make text files\"\n	@echo \"  man        to make manual pages\"\n	@echo \"  texinfo    to make Texinfo files\"\n	@echo \"  info       to make Texinfo files and run them through makeinfo\"\n	@echo \"  gettext    to make PO message catalogs\"\n	@echo \"  changes    to make an overview of all changed/added/deprecated items\"\n	@echo \"  xml        to make Docutils-native XML files\"\n	@echo \"  pseudoxml  to make pseudoxml-XML files for display purposes\"\n	@echo \"  linkcheck  to check all external links for integrity\"\n	@echo \"  doctest    to run all doctests embedded in the documentation (if enabled)\"\n\nclean:"
+			]
+		],
+		"width": 1086.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
