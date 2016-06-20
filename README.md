@@ -1,13 +1,14 @@
 # as-capacita-phalcon-mvc
 
-[Phalcon Framework](https://phalconphp.com/pt/)
-[Phalcon Github](https://github.com/phalcon/cphalcon/)
+1. [Phalcon Framework](https://phalconphp.com/pt/)
+2. [Phalcon Github](https://github.com/phalcon/cphalcon/)
 
-### PHALCON MVC
+### Phalcon MVC
 Estrutura do projeto
 ```
 as-capacita-phalcon-mvc/
   app/
+    configs/
     controllers/
     models/
     views/
@@ -17,36 +18,10 @@ as-capacita-phalcon-mvc/
     js/
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Comentários
-
-Uma linha
-
-```php
-<?php
-
-// Este é um comentário de linha única.
+Variáveis de ambiente
 
 ```
-
-ou
-
-```php
-<?php
-
-# Mais um comentário de linha única.
-
+username = "user"
+password = "passwd"
+dbname   = "as-capacita-phalcon-mvc"
 ```

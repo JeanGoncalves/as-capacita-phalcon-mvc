@@ -17,8 +17,31 @@ try {
         ]
     )->register();
 
+    $composerAutoload = '../vendor/autoload.php';
+    if (file_exists($composerAutoload)) {
+        require $composerAutoload;
+
+        $environmentVarsFile = '../app/configs/.env';
+        $environmentVarsDir  = '../app/configs';
+
+        if (file_exists($environmentVarsFile)) {
+            $dotenv = new Dotenv\Dotenv($environmentVarsDir);
+            $dotenv->load();
+        }
+    }
+
     // Create a DI
     $di = new FactoryDefault();
+
+    // Setup the database service
+    $di->set('db', function () {
+        return new DbAdapter([
+            'host'     => 'localhost',
+            'username' => getenv('username'),
+            'password' => getenv('password'),
+            'dbname'   => getenv('dbname'),
+        ]);
+    });
 
     // Setup the view component
     $di->set('view', function () {
@@ -27,10 +50,10 @@ try {
         return $view;
     });
 
-    // Setup a base URI so that all generated URIs include the "phalcon-project" folder
+    // Setup a base URI so that all generated URIs include the '/' folder
     $di->set('url', function () {
         $url = new UrlProvider();
-        $url->setBaseUri('/phalcon-project/');
+        $url->setBaseUri('/');
         return $url;
     });
 
@@ -39,5 +62,5 @@ try {
 
     echo $application->handle()->getContent();
 } catch (\Exception $e) {
-    echo "Exception: ", $e->getMessage();
+    echo 'Exception: ', $e->getMessage();
 }
