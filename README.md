@@ -25,3 +25,21 @@ username = "user"
 password = "passwd"
 dbname   = "as-capacita-phalcon-mvc"
 ```
+
+Banco de Dados
+```sql
+-- CREATE DATABASE "as-capacita-phalcon-mvc" ---------------
+CREATE DATABASE IF NOT EXISTS `as-capacita-phalcon-mvc` CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `as-capacita-phalcon-mvc`;
+-- ---------------------------------------------------------
+
+
+-- CREATE TABLE "users" ------------------------------------
+CREATE TABLE `users` (
+    `id` Int( 10 ) UNSIGNED AUTO_INCREMENT NOT NULL,
+    `name` VarChar( 70 ) NOT NULL,
+    `email` VarChar( 70 ) NOT NULL,
+    PRIMARY KEY ( `id` ) )
+ENGINE = InnoDB;
+-- ---------------------------------------------------------
+```
